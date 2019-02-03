@@ -1,6 +1,6 @@
 ## git-tutorial
 
-Contributors: Evan Lazaro
+Contributors: <your-name-here>
 
 Thank you to [Daniele Procida](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html) and [Nicola Paolucci](https://www.atlassian.com/git/articles/git-forks-and-upstreams) for their amazing Git resources!
 
@@ -283,7 +283,7 @@ regularly.
 
 The process for opening a PR from a branch is very similar to the process described for forking, with a few changes.
 
-Go to your reposititory on GitHub. Click the **New pull request** button.
+Go to your repository on GitHub. Click the **New pull request** button.
 
 Set the following branches:
 base: **master**, compare: **your-branch**.
